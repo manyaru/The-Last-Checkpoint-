@@ -9,10 +9,15 @@ Skills Acquired
 Throughout this Bootcamp, I have developed a wide range of skills that I am eager to apply in real-world scenarios. These include:
 
 1)Front-end Development: Proficient in HTML, CSS, and JavaScript, with hands-on experience in frameworks like React.
+
 2)Back-end Development: Understanding of server-side technologies, including Node.js and Express.js.
+
 3)Database Management: Familiar with both relational and non-relational databases, with practical experience in MongoDB.
+
 4)Problem-Solving: Enhanced problem-solving abilities through consistent coding challenges and projects.
+
 5)Team Collaboration: Experience working in collaborative environments, leveraging tools like GitHub for version control.
+
 
 Thoughts and Reflections.
 
